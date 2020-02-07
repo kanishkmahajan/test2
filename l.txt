@@ -1,2 +1,4 @@
 crisp analytics
 lumiq.ai
+jaypee
+jaypee
